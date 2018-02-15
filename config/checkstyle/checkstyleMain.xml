@@ -92,7 +92,7 @@
         <!-- to enable SuppressionCommentFilter -->
         <module name="FileContentsHolder"/>
     </module>
-    <module name="FileTabCharacter"/>
+    <!-- <module name="FileTabCharacter"/> -->
 
     <!-- allows suppressing using the //CHECKSTYLE:ON //CHECKSTYLE:OFF -->
     <module name="SuppressionCommentFilter"/>

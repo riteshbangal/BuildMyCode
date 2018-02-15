@@ -4,12 +4,12 @@ jacoco {
 
 ext {
     limits = [
-            'instruction': 93,
-            'branch'     : 88,
-            'line'       : 91,
-            'complexity' : 84,
-            'method'     : 87,
-            'class'      : 95
+            'instruction': 50,
+            'branch'     : 50,
+            'line'       : 50,
+            'complexity' : 50,
+            'method'     : 50,
+            'class'      : 50
     ]
 }
 
